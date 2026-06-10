@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Umesh Ghildiyal 👋<br><br>🔐 Cybersecurity Professional at Cryptus Cybersecurity Pvt. Ltd.<br><br>Passionate about cybersecurity, ethical hacking, network security, and threat analysis. I enjoy learning new security technologies, researching vulnerabilities, and contributing to projects that help build a safer digital world.<br><br># Skills<br>- Cybersecurity<br>- Network Security<br>- Vulnerability Assessment<br>- Penetration Testing<br>- Linux<br>- Python<br>- Security Tools & Automation<br>
+Hi, I'm Umesh Ghildiyal 👋<br><br>🔐 Cybersecurity Professional at Cryptus Cybersecurity Pvt. Ltd.<br><br>Passionate about cybersecurity, ethical hacking, network security, and threat analysis. I enjoy learning new security technologies, researching vulnerabilities, and contributing to projects that help build a safer digital world.<br><br># Skills<br>- Cybersecurity<br>- Network Security<br>- Vulnerability Assessment<br>- Penetration Testing<br>- Linux<br>- Python<br>- Security Tools & Automation<br> Always learning. Always securing.
 
 
 ## 🌐 Socials:
