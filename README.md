@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'M UMESH GHILDIYAAL<br>CYBERSECURITY PROFESSIONAL AT CRYPTUS CYBERSECURITY PVT.LTD.
+Hi, I'm Umesh Ghildiyaal<br>Cybersecurity Professional at Cryptus Cybersecurity Pvt. Ltd.
 
 
 ## 🌐 Socials:
